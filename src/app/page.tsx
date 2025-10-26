@@ -74,7 +74,7 @@ export default function Home() {
       <div className="grid md:grid-cols-2 gap-6 mx-auto mb-12">
         <Card className="flex flex-col">
           <CardHeader>
-            <CardTitle>What's New in v1.4 - Complete Workflow Coverage</CardTitle>
+            <CardTitle>What&apos;s New in v1.4 - Complete Workflow Coverage</CardTitle>
           </CardHeader>
           <CardContent className="flex-1">
             <ul className="list-disc list-inside space-y-2 text-muted-foreground">

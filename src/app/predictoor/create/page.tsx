@@ -49,9 +49,9 @@ export default function PredictoorCreatePage() {
     const timeframes = getTimeframesForAsset(config.asset);
     setAvailableTimeframes(timeframes);
     if (!timeframes.includes(config.timeframe)) {
-      setConfig({ ...config, timeframe: timeframes[0] });
+      setConfig(c => ({ ...c, timeframe: timeframes[0] }));
     }
-  }, [config.asset]);
+  }, [config.asset, config.timeframe]);
 
   useEffect(() => {
     const yaml = generatePredictoorYaml(config);

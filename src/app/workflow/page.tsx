@@ -19,7 +19,7 @@ export default function WorkflowPage() {
       <Alert className="mb-8 border-blue-900 bg-blue-900/20">
         <AlertTitle>📚 Why Follow This Workflow?</AlertTitle>
         <AlertDescription>
-          This workflow ensures you don't skip critical steps like simulation (saving you from losses)
+          This workflow ensures you don&apos;t skip critical steps like simulation (saving you from losses)
           or deploying the Prediction Submitter Manager (required for predictions to work). Following
           this order maximizes your chances of success.
         </AlertDescription>
@@ -104,7 +104,7 @@ export default function WorkflowPage() {
       </Card>
 
       <Alert className="mt-8 border-orange-900 bg-orange-900/20">
-        <AlertTitle>⚠️ Don't Skip Steps!</AlertTitle>
+        <AlertTitle>⚠️ Don&apos;t Skip Steps!</AlertTitle>
         <AlertDescription>
           <ul className="list-disc list-inside mt-2 space-y-1">
             <li><strong>Simulation</strong>: Test without risking real money</li>

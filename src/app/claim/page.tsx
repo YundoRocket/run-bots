@@ -20,7 +20,7 @@ export default function ClaimPage() {
         <AlertTitle>💰 Congratulations!</AlertTitle>
         <AlertDescription>
           If your Predictoor bot has been running successfully on mainnet with good accuracy,
-          you're earning OCEAN rewards through Data Farming. Here's how to claim them.
+          you&apos;re earning OCEAN rewards through Data Farming. Here&apos;s how to claim them.
         </AlertDescription>
       </Alert>
 
@@ -93,7 +93,7 @@ export default function ClaimPage() {
             <div>
               <h3 className="font-semibold mb-2">Step 2: Connect Your Wallet</h3>
               <p className="text-sm text-muted-foreground">
-                Connect the wallet you used for predictions. Make sure you're on the{" "}
+                Connect the wallet you used for predictions. Make sure you&apos;re on the{" "}
                 <strong>Sapphire Mainnet</strong>.
               </p>
               <div className="mt-2 p-3 bg-muted rounded-md text-sm">
@@ -114,9 +114,9 @@ export default function ClaimPage() {
                 Once rewards are available (usually after the weekly round ends):
               </p>
               <ol className="list-decimal list-inside text-sm text-muted-foreground space-y-1">
-                <li>Navigate to the "Claim" section on the DF dashboard</li>
+                <li>Navigate to the &quot;Claim&quot; section on the DF dashboard</li>
                 <li>Review your claimable amount</li>
-                <li>Click "Claim Rewards"</li>
+                <li>Click &quot;Claim Rewards&quot;</li>
                 <li>Confirm the transaction in your wallet</li>
                 <li>Wait for the transaction to confirm</li>
               </ol>
@@ -204,7 +204,7 @@ export default function ClaimPage() {
               <div>
                 <h3 className="font-semibold text-sm">No rewards showing?</h3>
                 <p className="text-sm text-muted-foreground">
-                  Check if: (1) You're on mainnet, (2) Markets are DF-eligible, (3) Enough time
+                  Check if: (1) You&apos;re on mainnet, (2) Markets are DF-eligible, (3) Enough time
                   has passed (rewards are weekly), (4) Your accuracy is above threshold (~52%).
                 </p>
               </div>
@@ -216,9 +216,9 @@ export default function ClaimPage() {
                 </p>
               </div>
               <div>
-                <h3 className="font-semibold text-sm">Can't claim rewards?</h3>
+                <h3 className="font-semibold text-sm">Can&apos;t claim rewards?</h3>
                 <p className="text-sm text-muted-foreground">
-                  Ensure you have ROSE for gas, you're on the correct network (Sapphire Mainnet),
+                  Ensure you have ROSE for gas, you&apos;re on the correct network (Sapphire Mainnet),
                   and the claim period is active.
                 </p>
               </div>

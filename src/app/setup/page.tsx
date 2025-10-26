@@ -182,7 +182,7 @@ pdr sim_plots`}</code>
                 <code>{`pdr deploy_pred_submitter_mgr my_ppss.yaml sapphire-mainnet`}</code>
               </pre>
               <p className="text-sm text-muted-foreground mt-2">
-                You'll need a separate deployment for mainnet.
+                You&apos;ll need a separate deployment for mainnet.
               </p>
             </div>
 
@@ -194,7 +194,7 @@ pdr sim_plots`}</code>
                   Deployed Prediction Submitter Manager at: <span className="text-primary">0x1234...abcd</span>
                 </code>
                 <p className="text-sm mt-3 font-semibold text-primary">
-                  ⚠️ Copy this address! You'll need it when configuring your bot.
+                  ⚠️ Copy this address! You&apos;ll need it when configuring your bot.
                 </p>
               </div>
             </div>
@@ -205,7 +205,7 @@ pdr sim_plots`}</code>
           <CheckCircle2 className="h-4 w-4" />
           <AlertTitle>✓ Setup Complete!</AlertTitle>
           <AlertDescription>
-            <p className="mb-2">You're now ready to configure your bot:</p>
+            <p className="mb-2">You&apos;re now ready to configure your bot:</p>
             <ul className="list-disc list-inside space-y-1">
               <li>Go to <a href="/predictoor/create" className="text-primary hover:underline">Predictoor Bot Configuration</a></li>
               <li>Enter your Prediction Submitter Manager contract address</li>
@@ -223,7 +223,7 @@ pdr sim_plots`}</code>
               <div>
                 <h3 className="font-semibold text-sm">Python version error</h3>
                 <p className="text-sm text-muted-foreground">
-                  Make sure you're using Python 3.12. Check with: <code className="bg-muted px-1 rounded">python --version</code>
+                  Make sure you&apos;re using Python 3.12. Check with: <code className="bg-muted px-1 rounded">python --version</code>
                 </p>
               </div>
               <div>

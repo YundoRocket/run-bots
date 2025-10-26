@@ -12,7 +12,7 @@ export default function MonitorPage() {
           Monitor & Analyze Performance
         </h1>
         <p className="text-muted-foreground">
-          Track your bot's accuracy, profits, and costs to optimize strategy
+          Track your bot&apos;s accuracy, profits, and costs to optimize strategy
         </p>
       </div>
 
@@ -34,7 +34,7 @@ export default function MonitorPage() {
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-muted-foreground">
-              The pdr-backend provides a real-time dashboard to visualize your bot's performance
+              The pdr-backend provides a real-time dashboard to visualize your bot&apos;s performance
               using live blockchain data.
             </p>
 

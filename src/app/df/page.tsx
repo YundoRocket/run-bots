@@ -19,7 +19,7 @@ export default function DataFarmingPage() {
       <Alert className="mb-8 border-blue-900 bg-blue-900/20">
         <AlertTitle>💰 What is Data Farming?</AlertTitle>
         <AlertDescription>
-          Data Farming is Ocean Protocol's incentive mechanism that rewards Predictoors for making accurate predictions. The more accurate your predictions, the more OCEAN tokens you earn weekly.
+          Data Farming is Ocean Protocol&apos;s incentive mechanism that rewards Predictoors for making accurate predictions. The more accurate your predictions, the more OCEAN tokens you earn weekly.
         </AlertDescription>
       </Alert>
 
@@ -131,11 +131,11 @@ export default function DataFarmingPage() {
           </CardHeader>
           <CardContent className="space-y-3">
             <p className="text-sm text-muted-foreground">
-              Monitor your bot's performance and rewards:
+              Monitor your bot&apos;s performance and rewards:
             </p>
             <div className="space-y-2 text-sm">
               <div className="p-3 bg-muted rounded-md">
-                <strong>Prediction Accuracy:</strong> Track via your bot's output logs
+                <strong>Prediction Accuracy:</strong> Track via your bot&apos;s output logs
               </div>
               <div className="p-3 bg-muted rounded-md">
                 <strong>Rewards:</strong> View on the Data Farming dashboard
