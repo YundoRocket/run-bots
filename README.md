@@ -2,8 +2,9 @@
 
 > **Version 1.4** — Complete workflow for Predictoor & Trader bots
 > _Setup → Deploy → Run → Monitor → Claim_
-> 🌐 Demo: https://run-predictoor-bots.vercel.app  
 
+---
+🌐 Demo: https://run-predictoor-bots.vercel.app  
 ---
 
 ## 💡 Overview
