@@ -2,6 +2,7 @@
 
 > **Version 1.4** — Complete workflow for Predictoor & Trader bots
 > _Setup → Deploy → Run → Monitor → Claim_
+> 🌐 Demo: https://run-predictoor-bots.vercel.app  
 
 ---
 
@@ -169,8 +170,6 @@ export PRIVATE_KEY=0xYOUR_KEY
 ## 🤝 Contributing
 Contributions, feedback, and pull requests are welcome!
 If you'd like to help extend the app (monitoring, dashboard integration, multi-bot manager…), open an issue or PR.
-
-If you find it useful — ⭐ **star the repo** and share it in the Ocean Discord (`#predictoor-dev`).
 
 ---
 
